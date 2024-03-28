@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+body {
+  padding-top: 0em; 
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.Sidebar {
+  top: 60px; 
+  
+}

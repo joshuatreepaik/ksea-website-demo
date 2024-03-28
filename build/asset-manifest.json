@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2348e615.css",
+    "main.js": "/static/js/main.ec50747d.js",
+    "static/js/453.33ea5274.chunk.js": "/static/js/453.33ea5274.chunk.js",
+    "static/media/UKC-image.png": "/static/media/UKC-image.0f7936400f0a9792402c.png",
+    "static/media/SEED-image.jpeg": "/static/media/SEED-image.dd5945fee1b4a5e39475.jpeg",
+    "static/media/Katalyst-image.png": "/static/media/Katalyst-image.b8bdb10443b26914eac5.png",
+    "static/media/STEPUP-image.png": "/static/media/STEPUP-image.0823d785f33bf0c417fa.png",
+    "static/media/ksea_logo.png": "/static/media/ksea_logo.d118710ee893d9649a31.png",
+    "index.html": "/index.html",
+    "main.2348e615.css.map": "/static/css/main.2348e615.css.map",
+    "main.ec50747d.js.map": "/static/js/main.ec50747d.js.map",
+    "453.33ea5274.chunk.js.map": "/static/js/453.33ea5274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2348e615.css",
+    "static/js/main.ec50747d.js"
+  ]
+}
